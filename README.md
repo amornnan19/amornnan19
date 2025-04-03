@@ -6,7 +6,7 @@ I started my development journey with Laravel, building web applications and API
 
 - 🌍 I'm based in Nakhon Si Thammarat, TH
 - ✉️ You can contact me at [amornnan19@gmail.com](mailto:amornnan19@gmail.com)
-- 🧠 I'm learning NextJS, Ruby on Rails
+- 🧠 I'm learning Ruby
 
 ### Skills
 
