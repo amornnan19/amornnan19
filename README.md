@@ -73,16 +73,5 @@ I started my development journey with Laravel, building web applications and API
 </p>
 
 <p align="center">
-<a
-  href="http://www.github.com/amornnan19">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=amornnan19&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-</p>
-<p align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@amornnan19/99949f80-528f-413a-8e5c-3cfd3dc48cc7.png" /></a>
-</p>
-<p align="center">
-<a href="https://wakatime.com/@0661b83c-7b62-4671-8a22-d48c5a71e8f3"><img src="https://wakatime.com/badge/user/0661b83c-7b62-4671-8a22-d48c5a71e8f3.svg" alt="Total time coded since Dec 1 2024" /></a>
 </p>
