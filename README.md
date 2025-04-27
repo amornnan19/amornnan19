@@ -1,7 +1,4 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amornnan Watcharakan
-
 ## Full Stack Dev by day, pixel warrior by night
-crafting fast, sleek, and gamer-grade web experiences
 
 With years of experience in web development, I started my journey building robust Laravel applications and gradually evolved into a versatile full-stack developer. Today, I wield modern tools like Fastify, Elysia.js, and Prisma for backend, while mastering React, Tailwind, and Zustand for the frontend.
 
