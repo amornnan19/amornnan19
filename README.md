@@ -1,12 +1,13 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amornnan Watcharakan
 
-## Full Stack Web Developer
+## Full Stack Dev by day, pixel warrior by night
+crafting fast, sleek, and gamer-grade web experiences
 
-I started my development journey with Laravel, building web applications and APIs with a strong foundation in PHP and MySQL. Over time, I expanded into full-stack development, now working heavily with modern stacks like Fastify, Elysia.js, and Prisma for backend, while using React, Tailwind, and Zustand on the frontend. I've built custom CMS platforms, integrated with third-party services like Telegram, and developed systems with robust authentication, user state management, and dynamic form flows. My work is focused on clean architecture, performance, and seamless user experiences—whether it's through a browser or a bot.
+With years of experience in web development, I started my journey building robust Laravel applications and gradually evolved into a versatile full-stack developer. Today, I wield modern tools like Fastify, Elysia.js, and Prisma for backend, while mastering React, Tailwind, and Zustand for the frontend.
 
-- 🌍 I'm based in Nakhon Si Thammarat, TH
-- ✉️ You can contact me at [amornnan19@gmail.com](mailto:amornnan19@gmail.com)
-- 🧠 I'm learning Ruby
+My career has taken me across diverse roles from backend engineering to project coordination at companies like DNA Maker, NAX Technology, and Synora Lab. This has sharpened my ability to architect clean systems, deliver performant code, and adapt across tech stacks.
+
+I thrive on solving complex problems, integrating seamless user experiences, and even crafting systems that run on bots and Telegram MiniApps. Whether I'm optimizing queries or designing form flows, I bring the mindset of a gamer: strategic, relentless, and always aiming for the next level.
 
 ### Skills
 
@@ -63,8 +64,4 @@ I started my development journey with Laravel, building web applications and API
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-</p>
-
-<p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@amornnan19/99949f80-528f-413a-8e5c-3cfd3dc48cc7.png" /></a>
 </p>
