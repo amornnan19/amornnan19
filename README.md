@@ -84,9 +84,3 @@ $moreAboutMe = [
 $philosophy = 'Because you are alive, everything is possible - Thich Nhat Hanh';
 
 ```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=amornnan19&style=flat-square)
-
-</div>
