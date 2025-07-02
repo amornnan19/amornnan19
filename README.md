@@ -57,6 +57,7 @@ $techArsenal = [
     'Tailwind',
     'CSS3',
     'HTML5',
+    'NextJS',
   ],
   'backend' => [
     'PHP',
