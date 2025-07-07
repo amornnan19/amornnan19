@@ -82,6 +82,4 @@ $moreAboutMe = [
   'description' => 'Learn more about my journey, projects, and experiences in tech.',
 ];
 
-$philosophy = 'Because you are alive, everything is possible - Thich Nhat Hanh';
-
 ```
