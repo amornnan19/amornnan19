@@ -35,7 +35,7 @@
 <summary>Click to expand</summary>
 
 **Website:** [amornnan.xyz](https://amornnan.xyz)  
-**Email:** your.email@example.com  
+**Email:** amornnan19@gmail.com
 **LinkedIn:** [linkedin.com/in/amornnan](https://linkedin.com/in/amornnan)  
 
 </details>
