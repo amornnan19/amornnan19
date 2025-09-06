@@ -6,82 +6,72 @@
 
 </div>
 
-```php
-$aboutMe = [
-  'name' => 'Amornnan',
-  'location' => 'Nakhon Si Thammarat, Thailand',
-  'degree' => 'Bachelor of Science in Digital Information Management (Second Class Honors)',
-  'currentWork' => 'Synora Lab Co., Ltd.',
-  'passion' => 'Always aiming for the next level',
-];
+## About Me
 
-$experience = [
-  [
-    'company' => 'Synora Lab Co., Ltd.',
-    'role' => 'Full Stack Developer',
-    'period' => 'Current',
-    'highlights' => [
-      'Building high-performance Laravel applications',
-      'Developing Telegram MiniApps and bot systems',
-      'Creating Arcade HTML5 games with Vite + React',
-      'Building Web3 applications with Next.js',
-      'Implementing wallet connections and token operations',
-    ],
-  ],
-  [
-    'company' => 'DNA Maker Co., Ltd.',
-    'role' => 'Project Manager & Backend Developer & Frontend Developer',
-    'period' => '5+ years',
-    'highlights' => [
-      'Delivered 10+ enterprise-level projects',
-      'Led development teams and coordinated with clients',
-    ],
-  ],
-];
+<details>
+<summary>Click to expand</summary>
 
-$contact = [
-  'website' => 'https://amornnan.xyz',
-  'email' => 'your.email@example.com',
-  'linkedin' => 'https://linkedin.com/in/amornnan',
-];
+**Name:** Amornnan  
+**Location:** Nakhon Si Thammarat, Thailand  
+**Degree:** Bachelor of Science in Digital Information Management (Second Class Honors)  
+**Current Work:** Synora Lab Co., Ltd.  
+**Passion:** Always aiming for the next level  
 
-$currentLearning = [
-  'Laravel' => 'Deepening expertise in Laravel 12 features',
-  'NextJS' => 'Server-side rendering & modern web apps',
-  'RubyOnRails' => 'Exploring Rails conventions & power',
-];
+</details>
 
-$techArsenal = [
-  'frontend' => [
-    'JavaScript',
-    'TypeScript',
-    'React',
-    'Tailwind',
-    'CSS3',
-    'HTML5',
-    'NextJS',
-  ],
-  'backend' => [
-    'PHP',
-    'Laravel',
-    'Node.js',
-    'Express',
-    'MySQL',
-    'PostgreSQL',
-  ],
-  'others' => [
-    'Git',
-    'Docker',
-    'Slack',
-    'Figma',
-    'VS Code',
-    'GitHub',
-  ],
-];
+## Work Experience
 
-$moreAboutMe = [
-  'website' => 'https://amornnan.xyz',
-  'description' => 'Learn more about my journey, projects, and experiences in tech.',
-];
+<details>
+<summary>Click to expand</summary>
 
-```
+**Current:** Full Stack Developer at Synora Lab Co., Ltd.  
+**Previous:** Project Manager & Backend Developer at DNA Maker Co., Ltd. (5+ years)
+
+</details>
+
+## Contact Information
+
+<details>
+<summary>Click to expand</summary>
+
+**Website:** [amornnan.xyz](https://amornnan.xyz)  
+**Email:** your.email@example.com  
+**LinkedIn:** [linkedin.com/in/amornnan](https://linkedin.com/in/amornnan)  
+
+</details>
+
+## Currently Learning
+
+<details>
+<summary>Click to expand</summary>
+
+**Laravel:** Deepening expertise in Laravel 12 features  
+**NextJS:** Server-side rendering & modern web apps  
+**RubyOnRails:** Exploring Rails conventions & power  
+
+</details>
+
+## Tech Arsenal
+
+<details>
+<summary>Click to expand</summary>
+
+### Frontend
+JavaScript • TypeScript • React • Tailwind • CSS3 • HTML5 • NextJS
+
+### Backend
+PHP • Laravel • Node.js • Express • MySQL • PostgreSQL
+
+### Others
+Git • Docker • Slack • Figma • VS Code • GitHub
+
+</details>
+
+## More About Me
+
+<details>
+<summary>Click to expand</summary>
+
+Visit my website at [amornnan.xyz](https://amornnan.xyz) to learn more about my journey, projects, and experiences in tech.
+
+</details>
