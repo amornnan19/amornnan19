@@ -2,22 +2,23 @@
 
 <br/>
 
-# 常に次のレベルを目指して
+<pre>
+╔══════════════════════════════════════════════════╗
+║  TRANSMISSION 001                                ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║    ▶ 常に次のレベルを目指して                        ║
+║    Always aiming for the next level              ║
+║                                                  ║
+║  ─────────────────────────────────────────────   ║
+║                                                  ║
+║  [■] STATUS ....... OPERATIONAL                  ║
+║  [◉] ROLE ......... SOFTWARE ENGINEER            ║
+║  [▲] LOC .......... NST · THAILAND               ║
+║  [◎] SIG .......... amornnan.xyz                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+</pre>
 
-<sup>— ALWAYS AIMING FOR THE NEXT LEVEL —</sup>
-
-<br/>
-
-`▬▬▬▬▬▬ ◉ ▬▬▬▬▬▬`
-
-<br/>
-
-<sub>**SOFTWARE ENGINEER** · NST · THAILAND</sub>
-
-<br/>
-
-[**amornnan.xyz**](https://amornnan.xyz) →
-
-<br/>
 
 </div>
